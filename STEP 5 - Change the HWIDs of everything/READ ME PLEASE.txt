@@ -1,0 +1,6 @@
+Same thing here, i took the time and created a script that will automatically change 
+all your HWIDs.
+
+- "Run as Administrator" -> 1. Change ALL HWIDs.cmd
+Press any key
+That's it
